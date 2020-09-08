@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b6ddcc3b1c610e1bdf171ea9e4d723cb",
+    "revision": "69da7bb50688fbb54db0992ec5d121c4",
     "url": "/netflix-template/index.html"
   },
   {
-    "revision": "53cd1090fa79d68aa95e",
-    "url": "/netflix-template/static/css/main.3f66f78e.chunk.css"
+    "revision": "e897b1777fd69f61ce53",
+    "url": "/netflix-template/static/css/main.43d40d9d.chunk.css"
   },
   {
     "revision": "3c2d73363b140b12f556",
@@ -16,15 +16,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/netflix-template/static/js/2.6feb381a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "53cd1090fa79d68aa95e",
-    "url": "/netflix-template/static/js/main.f2761a20.chunk.js"
+    "revision": "e897b1777fd69f61ce53",
+    "url": "/netflix-template/static/js/main.1308e24a.chunk.js"
   },
   {
     "revision": "1d761ed831186f66f189",
     "url": "/netflix-template/static/js/runtime-main.c35fd963.js"
-  },
-  {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/netflix-template/static/media/logo.5d5d9eef.svg"
   }
 ]);
